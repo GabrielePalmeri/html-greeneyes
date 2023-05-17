@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+    <head>
+        <title>GreenEyes Studios</title>
+    </head>
+    <body>
+        <h1>Benvenuti sul sito ufficiale di <font color="00ff40"> GreenEyes </font> Studios!</h1>
+        <h2>Chi siamo?</h2>
+        <h3>Siamo 2 studenti d'informatica con l'obbiettivo di lavorare nell'industria videoludica.</h3>
+        <h3>Per cominciare, abbiamo deciso di aprire questo studio dal nome "GreenEyes" per sviluppare</h3>
+        <h3>i nostri primi progetti.</h3>
+
+        <h2>Che progetti abbiamo realizzato?</h2>  
+        <h3>Parte del team ha già sviluppato alcuni giochi di cui sono state pubblicate le versioni</h3>  
+        <h3>beta o i video trailer, di cui sono:</h3>
+        
+        <h3>1) La città dei due porti: Un gioco in stile super mario ambientato ad Augusta, di cui</h3>  
+        <h3>il protagonista è il sindaco eletto nel 2020 di nome "Giuseppe Di Mare".</h3>
+        <img src="franciesco.png" width="640" height="480"><br/>
+        <a href="https://redactedj.itch.io/la-citta-dei-due-porti">Visita il sito del gioco!</a>
+
+        <h3>2) Jerma Adventure (GIOCO MEME): Un gioco dedicato allo streamer americano "Jerma", dove</h3>  
+        <h3>il protagonista (Jerma) deve sconfiggere i suoi cloni zombie che hanno invaso Las Jermas</h3>
+        <img src="giorgio.png"><br/>
+        <a href="https://www.reddit.com/r/jerma985/comments/vner1a/making_a_game_about_jerma_movement_shooting_and/">Ecco un video della beta!</a>   
+        
+    </body>
+</html>
